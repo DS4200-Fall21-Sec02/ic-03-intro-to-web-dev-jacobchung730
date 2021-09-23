@@ -9,5 +9,11 @@ h2 {
   font-weight: normal;
 }
 img {
-  border: 5px solid rgb(33, 81, 212);
+  border: 15px solid rgb(33, 81, 212);
 }
+div {
+  width: 50%;
+  text-align: center;
+  justify-content: center;
+}
+
